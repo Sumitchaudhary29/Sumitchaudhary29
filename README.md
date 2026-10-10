@@ -50,5 +50,3 @@ ipconfig, ping, nslookup, gpupdate
 - Child domain
 - Domain replication
 
-## What I learned
-(Add 2-3 lines in your own words, for example what was difficult or what you fixed.)
